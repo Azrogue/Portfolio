@@ -13,34 +13,5 @@
 
         {% include footer.html %}
     </div>
-    <style type="text/tailwindcss">
-        :root {
-            --background-color: #0A192F;
-            --primary-color: #64FFDA;
-            --text-primary: #CCCCCC;
-            --text-secondary: #8892B0;
-            --accent-color: #112240;
-        }
-        body {
-            background-color: var(--background-color);
-            color: var(--text-primary);
-            font-family: 'Inter', sans-serif;
-        }
-        .font-fira-code { font-family: 'Fira Code', monospace; }
-        .text-neon-green { color: var(--primary-color); }
-        .bg-neon-green { background-color: var(--primary-color); }
-        .border-neon-green { border-color: var(--primary-color); }
-        .text-light-gray { color: var(--text-primary); }
-        .text-soft-gray { color: var(--text-secondary); }
-        .bg-navy-light { background-color: var(--accent-color); }
-        .hover-lift { transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out; }
-        .hover-lift:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 10px 15px -3px rgba(2,12,27,0.7);
-        }
-        .nav-link { @apply text-soft-gray text-sm hover:text-neon-green transition-colors duration-300; }
-        .nav-link span { @apply text-neon-green mr-1; }
-        .btn-primary { @apply bg-transparent border border-neon-green text-neon-green rounded-md px-4 py-2 text-sm font-fira-code hover:bg-neon-green hover:bg-opacity-10 transition-all duration-300; }
-    </style>
 </body>
 </html>
