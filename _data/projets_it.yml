@@ -1,0 +1,8 @@
+- title: "Serveur Domotique Self-Hosted"
+  description: "Exploration du self-hosting avec Proxmox et Docker pour centraliser des services open-source (domotique, médias), et monitoring réseau."
+  github_url: "https://github.com/judikael-nedev/placeholder-repo-1"
+  technologies:
+    - Self-Hosting
+    - Proxmox
+    - Docker
+    - DIY

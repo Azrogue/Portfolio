@@ -1,0 +1,13 @@
+- title: "Optimisation de Déploiements"
+  description: "Chez Mathematic Studio, j'ai contribué à la mise en place d'une chaîne CI/CD, réduisant le temps de déploiement de 80% grâce à l'automatisation."
+  technologies:
+    - Docker
+    - Python
+    - Ansible
+
+- title: "Script d'Automatisation de Sauvegardes"
+  description: "Développement d'un script Python robuste pour automatiser les sauvegardes quotidiennes de plusieurs serveurs critiques, avec notifications intégrées."
+  technologies:
+    - Python
+    - Bash
+    - Linux

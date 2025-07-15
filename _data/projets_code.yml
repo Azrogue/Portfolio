@@ -1,0 +1,22 @@
+- title: "Ce Portfolio"
+  description: "Création d'un CV interactif avec Jekyll et Tailwind CSS, déployé sur GitHub Pages pour présenter mon parcours de manière moderne."
+  github_url: "https://github.com/judikael-nedev/Portfolio"
+  technologies:
+    - Jekyll
+    - TailwindCSS
+    - Frontend
+
+- title: "Bot Discord d'IA"
+  description: "Développement d'un bot Discord en Python qui s'intègre avec des APIs d'IA pour générer des images et répondre à des questions complexes."
+  github_url: "https://github.com/judikael-nedev/placeholder-repo-3"
+  technologies:
+    - Python
+    - API
+    - IA
+
+- title: "Plateforme de Gestion de Données"
+  description: "Conception et développement d'une plateforme web pour la gestion, le stockage et l'analyse de données complexes, avec une interface utilisateur intuitive et des fonctionnalités de reporting avancé."
+  technologies:
+    - Python (Django)
+    - PostgreSQL
+    - Docker
