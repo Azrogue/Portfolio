@@ -1,0 +1,24 @@
+- title: "Serveur Domotique Self-Hosted"
+  description: "Exploration du self-hosting avec Proxmox et Docker pour centraliser des services open-source (domotique, médias), et monitoring réseau."
+  github_url: "https://github.com/judikael-nedev/placeholder-repo-1"
+  technologies:
+    - Self-Hosting
+    - Proxmox
+    - Docker
+    - DIY
+
+- title: "Ce Portfolio"
+  description: "Création d'un CV interactif et portfolio avec Jekyll et Tailwind CSS, déployé sur GitHub Pages. Un projet pour présenter mon parcours de manière moderne."
+  github_url: "https://github.com/judikael-nedev/placeholder-repo-2"
+  technologies:
+    - Jekyll
+    - TailwindCSS
+    - Frontend
+
+- title: "Bot Discord d'IA"
+  description: "Développement d'un bot Discord en Python qui s'intègre avec des APIs d'IA pour générer des images et répondre à des questions complexes."
+  github_url: "https://github.com/judikael-nedev/placeholder-repo-3"
+  technologies:
+    - Python
+    - API
+    - Intelligence Artificielle
